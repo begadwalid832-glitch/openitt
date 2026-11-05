@@ -1,0 +1,17 @@
+{
+  "name": "rose-puzzle",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A rose that assembles itself piece by piece, bottom to top, on a black animated background.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "vite": "^5.4.10"
+  }
+}
